@@ -50,7 +50,6 @@ Implemented as a sequence of self-contained Jupyter notebooks, coordinated by a 
 | **5 — Interpretability** | Explain the models | SHAP values (global + local), consolidated feature importance across 3 models, partial dependence plots, delay heatmaps |
 | **6 — Survey Integration & Synthesis** | Connect models to passenger experience | Master model comparison, Kruskal-Wallis & Spearman tests, methodological triangulation, thesis synthesis |
 
-> **Note:** notebook filenames below follow the phase structure documented in the dissertation appendix — rename to match your actual files if they differ.
 
 ---
 
@@ -139,7 +138,6 @@ Lag features carry the highest summed group importance (1.719), confirming stron
 └── LICENSE
 ```
 
-*(Filenames above are inferred from the phase structure in the dissertation appendix — adjust to match your actual notebook names.)*
 
 ---
 
